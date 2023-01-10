@@ -33,7 +33,7 @@
 
 # 📖 [Setup Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Setup Hello Microverse]** is a project where i setup a hello Microverse html  and Css page
 
@@ -41,7 +41,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -64,11 +63,10 @@
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[It's a Welcoming heading ]**
 - **[Responds on all devices]**
@@ -76,13 +74,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +86,6 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Walid Kabboussa**
 
@@ -107,7 +100,6 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add a nav bar ]**
 - [ ] **[Add a colorful background]**
